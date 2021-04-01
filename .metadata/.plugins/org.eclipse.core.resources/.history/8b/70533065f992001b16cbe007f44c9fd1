@@ -1,0 +1,22 @@
+/*
+ ============================================================================
+ Name        : ejercicio_01.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+/*
+ * Ingresar 5 números y calcular su media
+ * */
+#include <stdio.h>
+#include <stdlib.h>
+#include "utn.h"
+#include "matematicas.h"
+#include "array.c"
+
+int main(void) {
+
+	return EXIT_SUCCESS;
+}

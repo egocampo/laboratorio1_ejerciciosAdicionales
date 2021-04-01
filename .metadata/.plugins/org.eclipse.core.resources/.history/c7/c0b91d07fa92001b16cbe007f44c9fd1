@@ -1,0 +1,26 @@
+/*
+ ============================================================================
+ Name        : ejercicio_01.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+/*
+ * Ingresar 5 números y calcular su media
+ * */
+#include <stdio.h>
+#include <stdlib.h>
+#include "utn.h"
+#include "matematicas.h"
+#include "array.h"
+
+#define QTY_NUMEROS
+
+int main(void)
+{
+	int arrayNumeros[QTY_NUMEROS];
+	arr_getIntegersW(arrayNumeros,QTY_NUMEROS,"Ingrese un número: ","", reintentos, minimo, maximo)
+	return EXIT_SUCCESS;
+}
