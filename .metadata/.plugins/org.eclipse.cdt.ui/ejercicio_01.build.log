@@ -1,7 +1,7 @@
-12:02:44 **** Clean-only build of configuration Debug for project ejercicio_01 ****
+12:07:12 **** Clean-only build of configuration Debug for project ejercicio_01 ****
 make clean 
 rm -rf  ./src/array.o ./src/ejercicio_01.o ./src/matematicas.o ./src/utn.o  ./src/array.d ./src/ejercicio_01.d ./src/matematicas.d ./src/utn.d  ejercicio_01
  
 
-12:02:45 Build Finished. 0 errors, 0 warnings. (took 195ms)
+12:07:13 Build Finished. 0 errors, 0 warnings. (took 183ms)
 
